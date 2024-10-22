@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Freelance",
-    "slug": "Freelance",
+    "name": "observer",
+    "slug": "observer",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "observer",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
